@@ -1,0 +1,14 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+local.properties
+*.iml
+.idea/
+captures/
+jacoco.exec
+
+# Mac OS X clutter
+*.DS_Store
+
